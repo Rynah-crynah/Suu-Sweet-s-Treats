@@ -1,0 +1,103 @@
+nav ul li{
+    display :inline;
+    padding: 20px 40px;
+    display: inline-flex;
+    float: right;
+    
+}
+nav ul li a{
+    font-size:xx-large;
+    font-weight: bolder;
+    color: black;
+    font-style: oblique;
+    text-decoration: none;
+}
+ul li a:hover{
+  background-color: plum;
+}
+body{
+    background-image: url(/background\ w2.jpg);
+}
+    table{
+      border: 2px solid black ; 
+       display :flex; 
+       /* margin-top:120px; */
+       width: 100px;
+       margin-left: 50px;
+       margin-bottom: 50px;
+
+       
+       }
+       table, th, td{
+           border: 1px solid plum;
+           border-collapse: collapse; 
+
+       }
+       th, td{
+           padding: 12px;
+           
+       }
+
+       
+
+       
+    
+   table{
+     border-collapse: collapse;
+     border: 10qpx solid rgba(17, 17, 17);
+   } 
+
+   th {
+     height: 50px;
+     text-align: left;
+     background-color: white; 
+     border: 3px solid rgba(17, 17, 17); 
+
+     
+   }
+   td{
+     
+     height: 60px;
+     color: rgb(17, 17, 17);
+     text-align: left;
+    border: 3px solid rgba(17, 17, 17);
+    
+  } 
+  table{
+    width: 500px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 250px;
+    font-size: 50px;
+    border-spacing: 40px; 
+}
+th{
+    text-align: left;
+    font-weight: 15px;
+}
+td{
+    font-size: 25px;
+    padding: 50px;
+    text-align: center;
+}
+table, th, td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+  h1{
+    margin-top: 100%;
+
+  }
+  .heading1{
+    margin-top: -2px;
+  
+  }
+  h3{
+      margin-right: 50%;
+  }

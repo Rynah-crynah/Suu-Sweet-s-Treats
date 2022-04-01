@@ -1,0 +1,52 @@
+nav ul li{
+    display :inline;
+    padding: 20px 40px;
+    display: inline-flex;
+    float: right;
+    
+}
+nav ul li a{
+    font-size:xx-large;
+    font-weight: bolder;
+    color: black;
+    font-style: oblique;
+    text-decoration: none;
+}
+ul li a:hover{
+  background-color: palevioletred;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: 30%;
+    text-align: center;
+    background-image: url(/back1.jpeg);
+    background-image:url("/Vanilla-Cupcakes.jpg");
+   
+}
+  
+  
+  footer {
+    text-align: center;
+    background-color: rgb(224, 139, 212);
+    color: rgb(221, 160, 219);
+    bottom: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+
+
+  }
+  footer p{
+    color: black;
+  }
+  h1{
+    margin-top: 180px;
+    padding-left: 5px;
+  }
+ 
+  
+  .heading1{
+    margin-top: -2px;
+    padding-bottom: 20px;
+
+  }
