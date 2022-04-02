@@ -1,32 +1,52 @@
 nav ul li{
     display :inline;
-    padding: 20px 40px;
-    display: inline-flex;
+    padding: 10PX 90PX;
+    /* display: inline-flex; */
     float: right;
+ 
     
 }
-nav ul li a{
+/* nav ul li a{
     font-size:xx-large;
     font-weight: bolder;
     color: black;
     font-style: oblique;
     text-decoration: none;
 }
+h1{
+  margin-top: 100%;
+  padding: 20px ;
+
+}
+.heading1{
+  margin-top: -2px;
+
+
+}
+h3{
+    margin-right: 80%;
+} */
+
+.dream_it{
+  margin-left: 7.5%;
+  
+}
 ul li a:hover{
-  background-color: plum;
+  color: palevioletred;
 }
 body{
     background-image: url(/background\ w2.jpg);
+   
 }
-    table{
+    /* table{
       border: 2px solid black ; 
        display :flex; 
        /* margin-top:120px; */
-       width: 100px;
+       /* width: 100px;
        margin-left: 50px;
-       margin-bottom: 50px;
+       margin-bottom: 50px; */
 
-       
+/*        
        }
        table, th, td{
            border: 1px solid plum;
@@ -36,9 +56,9 @@ body{
        th, td{
            padding: 12px;
            
-       }
+       } */
 
-       
+        
 
        
     
@@ -48,7 +68,7 @@ body{
    } 
 
    th {
-     height: 50px;
+     height: 30px;
      text-align: left;
      background-color: white; 
      border: 3px solid rgba(17, 17, 17); 
@@ -57,27 +77,27 @@ body{
    }
    td{
      
-     height: 60px;
+     height: 30px;
      color: rgb(17, 17, 17);
      text-align: left;
     border: 3px solid rgba(17, 17, 17);
     
   } 
   table{
-    width: 500px;
+    width: 90%;
     margin-bottom: 100px;
     margin-top: 100px;
-    margin-left: 250px;
+    margin-right: 750px;
     font-size: 50px;
     border-spacing: 40px; 
 }
 th{
-    text-align: left;
+    text-align: center;
     font-weight: 15px;
 }
 td{
     font-size: 25px;
-    padding: 50px;
+    padding: 5px;
     text-align: center;
 }
 table, th, td{
@@ -86,18 +106,29 @@ table, th, td{
 }
   footer {
     text-align: center;
-    padding: 3px;
+    padding: 2%;
     background-color: DarkSalmon;
     color: white;
   }
-  h1{
-    margin-top: 100%;
+  nav ul li a{
+    font-size:xx-large;
+    font-weight: bolder;
+    color: black;
+    font-style: oblique;
+    text-decoration: none;
+}
+h1{
+  margin-top: 100%;
+  padding: 20px ;
+  font-size: xx-large;
 
-  }
-  .heading1{
-    margin-top: -2px;
-  
-  }
-  h3{
-      margin-right: 50%;
-  }
+}
+.heading1{
+  margin: 0% 6.5%;
+
+
+}
+h3{
+    margin: 0% 8%;
+
+}
